@@ -1,0 +1,608 @@
+,work_year,experience_level,employment_type,job_title,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,Pekerjaan,Benua
+0,2020,Mid-Level,FullTime,Data Scientist,EUR,79833.0,DE,0,Germany,Large,Data Scientist,Eropa
+1,2020,Senior-Level,FullTime,Machine Learning Scientist,USD,260000.0,JP,0,Japan,Small,Data Scientist,Asia
+2,2020,Senior-Level,FullTime,Big Data Engineer,GBP,109024.0,GB,50,United Kingdom,Medium,Data Engineer,Eropa
+3,2020,Mid-Level,FullTime,Product Data Analyst,USD,20000.0,HN,0,Honduras,Small,Data Analyst,Amerika
+4,2020,Senior-Level,FullTime,Machine Learning Engineer,USD,150000.0,US,50,United States,Large,Data Engineer,Amerika
+5,2020,Entry-Level,FullTime,Data Analyst,USD,72000.0,US,100,United States,Large,Data Analyst,Amerika
+6,2020,Senior-Level,FullTime,Lead Data Scientist,USD,190000.0,US,100,United States,Small,Data Scientist,Amerika
+7,2020,Mid-Level,FullTime,Data Scientist,HUF,35735.0,HU,50,Hungary,Large,Data Scientist,Eropa
+8,2020,Mid-Level,FullTime,Business Data Analyst,USD,135000.0,US,100,United States,Large,Data Analyst,Amerika
+9,2020,Senior-Level,FullTime,Lead Data Engineer,USD,125000.0,NZ,50,New Zealand,Small,Data Engineer,Asia
+10,2020,Entry-Level,FullTime,Data Scientist,EUR,51321.0,FR,0,France,Small,Data Scientist,Eropa
+11,2020,Mid-Level,FullTime,Data Scientist,INR,40481.0,IN,0,India,Large,Data Scientist,Asia
+12,2020,Entry-Level,FullTime,Data Scientist,EUR,39916.0,FR,0,France,Medium,Data Scientist,Eropa
+13,2020,Mid-Level,FullTime,Lead Data Analyst,USD,87000.0,US,100,United States,Large,Data Analyst,Amerika
+14,2020,Mid-Level,FullTime,Data Analyst,USD,85000.0,US,100,United States,Large,Data Analyst,Amerika
+15,2020,Mid-Level,FullTime,Data Analyst,USD,8000.0,PK,50,Pakistan,Large,Data Analyst,Asia
+16,2020,Entry-Level,FullTime,Data Engineer,JPY,41689.0,JP,100,Japan,Small,Data Engineer,Asia
+17,2020,Senior-Level,FullTime,Big Data Engineer,EUR,114047.0,PL,100,United Kingdom,Small,Data Engineer,Eropa
+18,2020,Entry-Level,FullTime,Data Science Consultant,INR,5707.0,IN,50,India,Medium,Data Scientist,Asia
+19,2020,Mid-Level,FullTime,Lead Data Engineer,USD,56000.0,PT,100,United States,Medium,Data Engineer,Amerika
+20,2020,Mid-Level,FullTime,Machine Learning Engineer,CNY,43331.0,CN,0,China,Medium,Data Engineer,Asia
+21,2020,Mid-Level,FullTime,Product Data Analyst,INR,6072.0,IN,100,India,Large,Data Analyst,Asia
+22,2020,Senior-Level,FullTime,Data Engineer,EUR,47899.0,GR,50,Greece,Large,Data Engineer,Eropa
+23,2020,Mid-Level,FullTime,BI Data Analyst,USD,98000.0,US,0,United States,Medium,Data Analyst,Amerika
+24,2020,Mid-Level,FullTime,Lead Data Scientist,USD,115000.0,AE,0,United Arab Emirates,Large,Data Scientist,Asia
+25,2020,Expert-Level,FullTime,Director of Data Science,USD,325000.0,US,100,United States,Large,Data Scientist,Amerika
+26,2020,Entry-Level,FullTime,Research Scientist,USD,42000.0,NL,50,Netherlands,Large,Data Scientist,Eropa
+27,2020,Senior-Level,FullTime,Data Engineer,MXN,33511.0,MX,0,Mexico,Small,Data Engineer,Amerika
+28,2020,Entry-Level,Contract,Business Data Analyst,USD,100000.0,US,100,United States,Large,Data Analyst,Amerika
+29,2020,Senior-Level,FullTime,Machine Learning Manager,CAD,117104.0,CA,50,Canada,Large,Data Engineer,Amerika
+30,2020,Mid-Level,FullTime,Data Engineering Manager,EUR,59303.0,DE,100,Germany,Small,Data Engineer,Eropa
+31,2020,Entry-Level,FullTime,Big Data Engineer,USD,70000.0,US,100,United States,Large,Data Engineer,Amerika
+32,2020,Senior-Level,FullTime,Data Scientist,EUR,68428.0,GR,100,United States,Large,Data Scientist,Amerika
+33,2020,Mid-Level,FullTime,Research Scientist,USD,450000.0,US,0,United States,Medium,Data Scientist,Amerika
+34,2020,Mid-Level,FullTime,Data Analyst,EUR,46759.0,FR,50,France,Large,Data Analyst,Eropa
+35,2020,Mid-Level,FullTime,Data Engineer,EUR,74130.0,AT,50,Austria,Large,Data Engineer,Eropa
+36,2020,Mid-Level,FullTime,Data Science Consultant,USD,103000.0,US,100,United States,Large,Data Scientist,Amerika
+37,2020,Entry-Level,FullTime,Machine Learning Engineer,USD,250000.0,US,50,United States,Large,Data Engineer,Amerika
+38,2020,Entry-Level,FullTime,Data Analyst,USD,10000.0,NG,100,Nigeria,Small,Data Analyst,Afrika
+39,2020,Entry-Level,FullTime,Machine Learning Engineer,USD,138000.0,US,100,United States,Small,Data Engineer,Amerika
+40,2020,Mid-Level,FullTime,Data Scientist,USD,45760.0,PH,100,United States,Small,Data Scientist,Amerika
+41,2020,Expert-Level,FullTime,Data Engineering Manager,EUR,79833.0,ES,50,Spain,Large,Data Engineer,Eropa
+42,2020,Mid-Level,FullTime,Machine Learning Infrastructure Engineer,EUR,50180.0,PT,0,Portugal,Medium,Data Engineer,Eropa
+43,2020,Mid-Level,FullTime,Data Engineer,USD,106000.0,US,100,United States,Large,Data Engineer,Amerika
+44,2020,Mid-Level,FullTime,Data Engineer,GBP,112872.0,GB,50,United Kingdom,Large,Data Engineer,Eropa
+45,2020,Entry-Level,PartTime,Machine Learning Engineer,EUR,15966.0,DE,100,Germany,Small,Data Engineer,Eropa
+46,2020,Mid-Level,FullTime,Data Scientist,GBP,76958.0,GB,100,United Kingdom,Small,Data Scientist,Eropa
+47,2020,Senior-Level,FullTime,Data Engineer,USD,188000.0,US,100,United States,Large,Data Engineer,Amerika
+48,2020,Mid-Level,FullTime,Data Scientist,USD,105000.0,US,100,United States,Large,Data Scientist,Amerika
+49,2020,Mid-Level,FullTime,Data Engineer,EUR,70139.0,FR,50,France,Large,Data Engineer,Eropa
+50,2020,Entry-Level,FullTime,Data Analyst,INR,6072.0,IN,0,India,Small,Data Analyst,Asia
+51,2020,Entry-Level,FullTime,Data Analyst,USD,91000.0,US,100,United States,Large,Data Analyst,Amerika
+52,2020,Entry-Level,FullTime,AI Scientist,DKK,45896.0,DK,50,Denmark,Small,Data Scientist,Eropa
+53,2020,Entry-Level,FullTime,Data Engineer,EUR,54742.0,PK,100,Germany,Large,Data Engineer,Eropa
+54,2020,Senior-Level,FreeLance,Computer Vision Engineer,USD,60000.0,RU,100,United States,Small,Data Engineer,Amerika
+55,2020,Senior-Level,FullTime,Principal Data Scientist,EUR,148261.0,DE,100,Germany,Medium,Data Scientist,Eropa
+56,2020,Mid-Level,FullTime,Data Scientist,EUR,38776.0,ES,100,Spain,Medium,Data Scientist,Eropa
+57,2020,Mid-Level,FullTime,Data Scientist,USD,118000.0,US,100,United States,Medium,Data Scientist,Amerika
+58,2020,Senior-Level,FullTime,Data Scientist,USD,120000.0,US,50,United States,Large,Data Scientist,Amerika
+59,2020,Mid-Level,FullTime,Data Scientist,USD,138350.0,US,100,United States,Medium,Data Scientist,Amerika
+60,2020,Mid-Level,FullTime,Data Engineer,USD,110000.0,US,100,United States,Large,Data Engineer,Amerika
+61,2020,Mid-Level,FullTime,Data Engineer,USD,130800.0,ES,100,United States,Medium,Data Engineer,Amerika
+62,2020,Entry-Level,PartTime,Data Scientist,EUR,21669.0,IT,50,Italy,Small,Data Scientist,Eropa
+63,2020,Senior-Level,FullTime,Data Scientist,USD,412000.0,US,100,United States,Large,Data Scientist,Amerika
+64,2020,Senior-Level,FullTime,Machine Learning Engineer,EUR,45618.0,HR,100,Croatia,Small,Data Engineer,Eropa
+65,2020,Entry-Level,FullTime,Data Scientist,EUR,62726.0,DE,50,Germany,Small,Data Scientist,Eropa
+66,2020,Entry-Level,FullTime,Data Scientist,EUR,49268.0,DE,0,Germany,Small,Data Scientist,Eropa
+67,2020,Senior-Level,FullTime,Data Science Manager,USD,190200.0,US,100,United States,Medium,Data Scientist,Amerika
+68,2020,Entry-Level,FullTime,Data Scientist,USD,105000.0,US,100,United States,Small,Data Scientist,Amerika
+69,2020,Senior-Level,FullTime,Data Scientist,EUR,91237.0,AT,0,Austria,Small,Data Scientist,Eropa
+70,2020,Mid-Level,FullTime,Data Scientist,EUR,62726.0,FR,50,Luxembourg,Small,Data Scientist,Eropa
+71,2020,Mid-Level,FullTime,Data Scientist,EUR,42197.0,FR,50,France,Small,Data Scientist,Eropa
+72,2021,Entry-Level,FullTime,Research Scientist,GBP,82528.0,GB,50,United Kingdom,Large,Data Scientist,Eropa
+73,2021,Expert-Level,FullTime,BI Data Analyst,USD,150000.0,IN,100,United States,Large,Data Analyst,Amerika
+74,2021,Expert-Level,FullTime,Head of Data,USD,235000.0,US,100,United States,Large,Data Engineer,Amerika
+75,2021,Senior-Level,FullTime,Data Scientist,EUR,53192.0,FR,50,France,Large,Data Scientist,Eropa
+76,2021,Mid-Level,FullTime,BI Data Analyst,USD,100000.0,US,100,United States,Medium,Data Analyst,Amerika
+77,2021,Mid-Level,PartTime,3D Computer Vision Researcher,INR,5409.0,IN,50,India,Medium,Data Engineer,Asia
+78,2021,Mid-Level,Contract,Machine Learning Engineer,USD,270000.0,US,100,United States,Large,Data Engineer,Amerika
+79,2021,Entry-Level,FullTime,Data Analyst,USD,80000.0,US,100,United States,Medium,Data Analyst,Amerika
+80,2021,Senior-Level,FullTime,Data Analytics Engineer,EUR,79197.0,DE,100,Germany,Large,Data Analyst,Eropa
+81,2021,Mid-Level,FullTime,Data Engineer,USD,140000.0,US,100,United States,Large,Data Engineer,Amerika
+82,2021,Mid-Level,FullTime,Applied Data Scientist,CAD,54238.0,GB,50,Canada,Large,Data Scientist,Amerika
+83,2021,Mid-Level,FullTime,Machine Learning Engineer,EUR,47282.0,ES,100,Spain,Small,Data Engineer,Eropa
+84,2021,Expert-Level,FullTime,Director of Data Science,EUR,153667.0,IT,100,Poland,Large,Data Scientist,Eropa
+85,2021,Mid-Level,FullTime,Data Engineer,PLN,28476.0,PL,100,Poland,Large,Data Engineer,Eropa
+86,2021,Entry-Level,FullTime,Data Analyst,EUR,59102.0,FR,50,France,Medium,Data Analyst,Eropa
+87,2021,Mid-Level,FullTime,Data Analytics Engineer,USD,110000.0,US,100,United States,Large,Data Analyst,Amerika
+88,2021,Senior-Level,FullTime,Lead Data Analyst,USD,170000.0,US,100,United States,Large,Data Analyst,Amerika
+89,2021,Senior-Level,FullTime,Data Analyst,USD,80000.0,BG,100,United States,Small,Data Analyst,Amerika
+90,2021,Senior-Level,FullTime,Marketing Data Analyst,EUR,88654.0,GR,100,Denmark,Large,Data Analyst,Eropa
+91,2021,Entry-Level,FullTime,Data Science Consultant,EUR,76833.0,DE,100,Germany,Small,Data Scientist,Eropa
+92,2021,Mid-Level,FullTime,Lead Data Analyst,INR,19609.0,IN,100,India,Large,Data Analyst,Asia
+93,2021,Senior-Level,FullTime,Lead Data Engineer,USD,276000.0,US,0,United States,Large,Data Engineer,Amerika
+94,2021,Entry-Level,FullTime,Data Scientist,INR,29751.0,IN,50,India,Large,Data Scientist,Asia
+95,2021,Mid-Level,FullTime,Cloud Data Engineer,SGD,89294.0,SG,50,Singapore,Large,Data Engineer,Asia
+96,2021,Entry-Level,PartTime,AI Scientist,USD,12000.0,BR,100,United States,Small,Data Scientist,Amerika
+97,2021,Mid-Level,FullTime,Financial Data Analyst,USD,450000.0,US,100,United States,Large,Data Analyst,Amerika
+98,2021,Entry-Level,FullTime,Computer Vision Software Engineer,USD,70000.0,US,100,United States,Medium,Data Engineer,Amerika
+99,2021,Mid-Level,FullTime,Computer Vision Software Engineer,EUR,95746.0,DE,100,United States,Small,Data Engineer,Amerika
+100,2021,Mid-Level,FullTime,Data Analyst,USD,75000.0,US,0,United States,Large,Data Analyst,Amerika
+101,2021,Senior-Level,FullTime,Data Engineer,USD,150000.0,US,100,United States,Large,Data Engineer,Amerika
+102,2021,Mid-Level,FullTime,BI Data Analyst,HUF,36259.0,HU,50,United States,Large,Data Analyst,Amerika
+103,2021,Mid-Level,FullTime,Data Analyst,USD,62000.0,US,0,United States,Large,Data Analyst,Amerika
+104,2021,Mid-Level,FullTime,Data Scientist,USD,73000.0,US,0,United States,Large,Data Scientist,Amerika
+105,2021,Mid-Level,FullTime,Data Analyst,GBP,51519.0,GB,50,United Kingdom,Large,Data Analyst,Eropa
+106,2021,Mid-Level,FullTime,Research Scientist,CAD,187442.0,CA,100,Canada,Large,Data Scientist,Amerika
+107,2021,Senior-Level,FullTime,Data Engineer,USD,115000.0,US,100,United States,Small,Data Engineer,Amerika
+108,2021,Senior-Level,FullTime,Data Engineer,USD,150000.0,US,100,United States,Medium,Data Engineer,Amerika
+109,2021,Entry-Level,FullTime,Data Engineer,INR,30428.0,IN,100,India,Large,Data Engineer,Asia
+110,2021,Senior-Level,FullTime,Machine Learning Engineer,EUR,94564.0,DE,50,Germany,Large,Data Engineer,Eropa
+111,2021,Senior-Level,FullTime,Director of Data Engineering,GBP,113476.0,GB,100,United Kingdom,Medium,Data Engineer,Eropa
+112,2021,Senior-Level,FullTime,Lead Data Engineer,GBP,103160.0,GB,100,United Kingdom,Small,Data Engineer,Eropa
+113,2021,Entry-Level,PartTime,AI Scientist,USD,12000.0,PK,100,United States,Medium,Data Scientist,Amerika
+114,2021,Mid-Level,FullTime,Data Engineer,EUR,45391.0,NL,100,Netherlands,Large,Data Engineer,Eropa
+115,2021,Entry-Level,FullTime,Machine Learning Scientist,USD,225000.0,US,100,United States,Large,Data Scientist,Amerika
+116,2021,Mid-Level,FullTime,Data Scientist,USD,50000.0,NG,100,Nigeria,Large,Data Scientist,Afrika
+117,2021,Mid-Level,FullTime,Data Science Engineer,EUR,40189.0,GR,100,Greece,Medium,Data Engineer,Eropa
+118,2021,Entry-Level,FullTime,Data Analyst,USD,90000.0,US,100,United States,Small,Data Analyst,Amerika
+119,2021,Mid-Level,FullTime,Data Engineer,USD,200000.0,US,100,United States,Large,Data Engineer,Amerika
+120,2021,Mid-Level,FullTime,Big Data Engineer,USD,60000.0,ES,50,Romania,Medium,Data Engineer,Eropa
+121,2021,Senior-Level,FullTime,Principal Data Engineer,USD,200000.0,US,100,United States,Medium,Data Engineer,Amerika
+122,2021,Entry-Level,FullTime,Data Analyst,USD,50000.0,US,100,United States,Medium,Data Analyst,Amerika
+123,2021,Entry-Level,FullTime,Applied Data Scientist,GBP,110037.0,GB,0,United Kingdom,Large,Data Scientist,Eropa
+124,2021,Entry-Level,PartTime,Data Analyst,EUR,10354.0,ES,50,Spain,Medium,Data Analyst,Eropa
+125,2021,Mid-Level,FullTime,Principal Data Scientist,USD,151000.0,US,100,United States,Large,Data Scientist,Amerika
+126,2021,Senior-Level,FullTime,Machine Learning Scientist,USD,120000.0,US,50,United States,Small,Data Scientist,Amerika
+127,2021,Mid-Level,FullTime,Data Scientist,INR,9466.0,IN,0,India,Small,Data Scientist,Asia
+128,2021,Entry-Level,FullTime,Machine Learning Engineer,USD,20000.0,IN,100,India,Small,Data Engineer,Asia
+129,2021,Senior-Level,FullTime,Lead Data Scientist,INR,40570.0,IN,50,India,Large,Data Scientist,Asia
+130,2021,Entry-Level,FullTime,Machine Learning Developer,USD,100000.0,IQ,50,Iraq,Small,Data Engineer,Asia
+131,2021,Entry-Level,FullTime,Data Scientist,EUR,49646.0,FR,50,France,Medium,Data Scientist,Eropa
+132,2021,Mid-Level,FullTime,Applied Machine Learning Scientist,USD,38400.0,VN,100,United States,Medium,Data Scientist,Amerika
+133,2021,Senior-Level,FullTime,Computer Vision Engineer,USD,24000.0,BR,100,Brazil,Medium,Data Engineer,Amerika
+134,2021,Entry-Level,FullTime,Data Scientist,USD,100000.0,US,0,United States,Small,Data Scientist,Amerika
+135,2021,Mid-Level,FullTime,Data Analyst,USD,90000.0,US,100,United States,Medium,Data Analyst,Amerika
+136,2021,Mid-Level,FullTime,Machine Learning Engineer,JPY,63711.0,JP,50,Japan,Small,Data Engineer,Asia
+137,2021,Mid-Level,FullTime,Machine Learning Engineer,JPY,77364.0,JP,50,Japan,Small,Data Engineer,Asia
+138,2021,Senior-Level,FullTime,Principal Data Scientist,USD,220000.0,US,0,United States,Large,Data Scientist,Amerika
+139,2021,Entry-Level,FullTime,Data Scientist,USD,80000.0,US,100,United States,Medium,Data Scientist,Amerika
+140,2021,Mid-Level,FullTime,Data Analyst,USD,135000.0,US,100,United States,Large,Data Analyst,Amerika
+141,2021,Senior-Level,FullTime,Data Science Manager,USD,240000.0,US,0,United States,Large,Data Scientist,Amerika
+142,2021,Senior-Level,FullTime,Data Engineering Manager,USD,150000.0,US,0,United States,Large,Data Engineer,Amerika
+143,2021,Mid-Level,FullTime,Data Scientist,USD,82500.0,US,100,United States,Small,Data Scientist,Amerika
+144,2021,Mid-Level,FullTime,Data Engineer,USD,100000.0,US,100,United States,Large,Data Engineer,Amerika
+145,2021,Senior-Level,FullTime,Machine Learning Engineer,EUR,82744.0,BE,50,Belgium,Medium,Data Engineer,Eropa
+146,2021,Mid-Level,FullTime,Research Scientist,EUR,62649.0,FR,50,France,Medium,Data Scientist,Eropa
+147,2021,Mid-Level,FullTime,Data Engineer,USD,90000.0,US,100,United States,Large,Data Engineer,Amerika
+148,2021,Senior-Level,FullTime,Data Engineering Manager,USD,153000.0,US,100,United States,Large,Data Engineer,Amerika
+149,2021,Senior-Level,FullTime,Cloud Data Engineer,USD,160000.0,BR,100,United States,Small,Data Engineer,Amerika
+150,2021,Senior-Level,FullTime,Director of Data Science,USD,168000.0,JP,0,Japan,Small,Data Scientist,Asia
+151,2021,Mid-Level,FullTime,Data Scientist,USD,150000.0,US,100,United States,Medium,Data Scientist,Amerika
+152,2021,Mid-Level,FullTime,Data Scientist,CAD,75774.0,CA,100,Canada,Large,Data Scientist,Amerika
+153,2021,Entry-Level,FullTime,Data Scientist,USD,13400.0,UA,100,Ukraine,Large,Data Scientist,Eropa
+154,2021,Senior-Level,FullTime,Data Science Manager,USD,144000.0,US,100,United States,Large,Data Scientist,Amerika
+155,2021,Senior-Level,FullTime,Data Science Engineer,CAD,127221.0,CA,50,Canada,Large,Data Engineer,Amerika
+156,2021,Mid-Level,FullTime,Data Scientist,SGD,119059.0,SG,100,Israel,Medium,Data Scientist,Asia
+157,2021,Mid-Level,FullTime,Applied Machine Learning Scientist,USD,423000.0,US,50,United States,Large,Data Scientist,Amerika
+158,2021,Senior-Level,FullTime,Data Analytics Manager,USD,120000.0,US,100,United States,Medium,Data Analyst,Amerika
+159,2021,Entry-Level,FullTime,Machine Learning Engineer,USD,125000.0,US,100,United States,Small,Data Engineer,Amerika
+160,2021,Expert-Level,FullTime,Head of Data,USD,230000.0,RU,50,Russia,Large,Data Engineer,Eropa
+161,2021,Expert-Level,FullTime,Head of Data Science,USD,85000.0,RU,0,Russia,Medium,Data Scientist,Eropa
+162,2021,Mid-Level,FullTime,Data Engineer,EUR,28369.0,MT,50,Malta,Large,Data Engineer,Eropa
+163,2021,Entry-Level,FullTime,Data Science Consultant,EUR,63831.0,DE,50,Germany,Large,Data Scientist,Eropa
+164,2021,Expert-Level,FullTime,Director of Data Science,EUR,130026.0,DE,50,Germany,Medium,Data Scientist,Eropa
+165,2021,Senior-Level,FullTime,Data Specialist,USD,165000.0,US,100,United States,Large,Data Engineer,Amerika
+166,2021,Entry-Level,FullTime,Data Engineer,USD,80000.0,US,100,United States,Large,Data Engineer,Amerika
+167,2021,Expert-Level,FullTime,Director of Data Science,USD,250000.0,US,0,United States,Large,Data Scientist,Amerika
+168,2021,Entry-Level,FullTime,BI Data Analyst,USD,55000.0,US,50,United States,Small,Data Analyst,Amerika
+169,2021,Mid-Level,FullTime,Data Architect,USD,150000.0,US,100,United States,Large,Data Engineer,Amerika
+170,2021,Mid-Level,FullTime,Data Architect,USD,170000.0,US,100,United States,Large,Data Engineer,Amerika
+171,2021,Mid-Level,FullTime,Data Engineer,GBP,82528.0,GB,100,United Kingdom,Large,Data Engineer,Eropa
+172,2021,Entry-Level,FullTime,Data Analyst,USD,60000.0,US,100,United States,Small,Data Analyst,Amerika
+173,2021,Senior-Level,FullTime,Principal Data Scientist,USD,235000.0,US,100,United States,Large,Data Scientist,Amerika
+174,2021,Senior-Level,FullTime,Research Scientist,EUR,60757.0,PT,50,Portugal,Large,Data Scientist,Eropa
+175,2021,Senior-Level,FullTime,Data Engineering Manager,USD,174000.0,US,100,United States,Large,Data Engineer,Amerika
+176,2021,Mid-Level,FullTime,Data Scientist,MXN,2859.0,MX,0,Mexico,Small,Data Scientist,Amerika
+177,2021,Mid-Level,FullTime,Data Scientist,CLP,40038.0,CL,100,Chile,Large,Data Scientist,Amerika
+178,2021,Entry-Level,FullTime,Machine Learning Engineer,USD,81000.0,US,50,United States,Small,Data Engineer,Amerika
+179,2021,Mid-Level,FullTime,Data Scientist,INR,5679.0,IN,100,United States,Small,Data Scientist,Amerika
+180,2021,Mid-Level,FullTime,Big Data Engineer,INR,22611.0,IN,0,India,Large,Data Engineer,Asia
+181,2021,Mid-Level,FullTime,Data Scientist,EUR,90734.0,DE,50,Germany,Large,Data Scientist,Eropa
+182,2021,Mid-Level,FullTime,Data Engineer,EUR,26005.0,RO,0,United States,Large,Data Engineer,Amerika
+183,2021,Senior-Level,FullTime,Finance Data Analyst,GBP,61896.0,GB,50,United Kingdom,Large,Data Analyst,Eropa
+184,2021,Mid-Level,FreeLance,Machine Learning Scientist,USD,12000.0,PK,50,Pakistan,Medium,Data Scientist,Asia
+185,2021,Mid-Level,FullTime,Data Engineer,USD,4000.0,IR,100,Iran,Medium,Data Engineer,Asia
+186,2021,Senior-Level,FullTime,Data Analytics Engineer,USD,50000.0,VN,100,United Kingdom,Medium,Data Analyst,Eropa
+187,2021,Expert-Level,FullTime,Data Science Consultant,EUR,69741.0,FR,100,Spain,Small,Data Scientist,Eropa
+188,2021,Senior-Level,FullTime,Data Engineer,EUR,76833.0,RO,50,United Kingdom,Small,Data Engineer,Eropa
+189,2021,Mid-Level,FullTime,Machine Learning Engineer,USD,74000.0,JP,50,Japan,Small,Data Engineer,Asia
+190,2021,Senior-Level,FullTime,Data Science Manager,USD,152000.0,US,100,France,Large,Data Scientist,Eropa
+191,2021,Entry-Level,FullTime,Machine Learning Engineer,USD,21844.0,CO,50,Colombia,Medium,Data Engineer,Amerika
+192,2021,Mid-Level,FullTime,Big Data Engineer,USD,18000.0,MD,0,Moldova,Small,Data Engineer,Eropa
+193,2021,Senior-Level,FullTime,Data Science Manager,USD,174000.0,US,100,United States,Large,Data Scientist,Amerika
+194,2021,Senior-Level,FullTime,Research Scientist,CAD,96113.0,CA,50,Canada,Large,Data Scientist,Amerika
+195,2021,Mid-Level,FullTime,Data Scientist,USD,147000.0,US,50,United States,Large,Data Scientist,Amerika
+196,2021,Entry-Level,FullTime,BI Data Analyst,USD,9272.0,KE,100,Kenya,Small,Data Analyst,Afrika
+197,2021,Senior-Level,FullTime,Machine Learning Engineer,INR,24342.0,IN,100,India,Large,Data Engineer,Asia
+198,2021,Senior-Level,FullTime,Data Science Manager,INR,54094.0,IN,50,United States,Large,Data Scientist,Amerika
+199,2021,Entry-Level,FullTime,Data Science Consultant,USD,90000.0,US,100,United States,Small,Data Scientist,Amerika
+200,2021,Mid-Level,FullTime,Data Scientist,EUR,61467.0,DE,50,Austria,Medium,Data Scientist,Eropa
+201,2021,Senior-Level,FullTime,Machine Learning Infrastructure Engineer,USD,195000.0,US,100,United States,Medium,Data Engineer,Amerika
+202,2021,Mid-Level,FullTime,Data Scientist,EUR,37825.0,ES,100,Spain,Large,Data Scientist,Eropa
+203,2021,Senior-Level,FullTime,Research Scientist,USD,50000.0,FR,100,United States,Small,Data Scientist,Amerika
+204,2021,Mid-Level,FullTime,Data Scientist,USD,160000.0,US,100,United States,Large,Data Scientist,Amerika
+205,2021,Mid-Level,FullTime,Data Scientist,BRL,12901.0,BR,0,Brazil,Small,Data Scientist,Amerika
+206,2021,Senior-Level,FullTime,Machine Learning Engineer,USD,200000.0,US,100,United States,Large,Data Engineer,Amerika
+207,2021,Senior-Level,FullTime,Data Engineer,USD,165000.0,US,0,United States,Medium,Data Engineer,Amerika
+208,2021,Mid-Level,FreeLance,Data Engineer,USD,20000.0,IT,0,United States,Large,Data Engineer,Amerika
+209,2021,Senior-Level,FullTime,Data Analytics Manager,USD,120000.0,US,0,United States,Large,Data Analyst,Amerika
+210,2021,Mid-Level,FullTime,Machine Learning Engineer,EUR,24823.0,SI,50,Slovenia,Large,Data Engineer,Eropa
+211,2021,Mid-Level,FullTime,Research Scientist,EUR,56738.0,FR,50,France,Small,Data Scientist,Eropa
+212,2021,Mid-Level,FullTime,Data Engineer,GBP,66022.0,HK,50,United Kingdom,Small,Data Engineer,Eropa
+213,2021,Entry-Level,FullTime,Big Data Engineer,INR,5882.0,IN,0,Switzerland,Large,Data Engineer,Eropa
+214,2021,Entry-Level,FullTime,Machine Learning Engineer,EUR,24823.0,DE,50,Germany,Medium,Data Engineer,Eropa
+215,2021,Senior-Level,FullTime,Principal Data Engineer,USD,185000.0,US,100,United States,Large,Data Engineer,Amerika
+216,2021,Entry-Level,PartTime,Computer Vision Engineer,DKK,28609.0,DK,50,Denmark,Small,Data Engineer,Eropa
+217,2021,Mid-Level,FullTime,Data Scientist,EUR,90734.0,DE,50,Germany,Large,Data Scientist,Eropa
+218,2021,Mid-Level,FullTime,Machine Learning Engineer,EUR,88654.0,BE,100,Belgium,Medium,Data Engineer,Eropa
+219,2021,Senior-Level,FullTime,Data Analytics Manager,USD,140000.0,US,100,United States,Large,Data Analyst,Amerika
+220,2021,Mid-Level,FullTime,Machine Learning Engineer,PLN,46597.0,PL,100,Poland,Large,Data Engineer,Eropa
+221,2021,Mid-Level,FullTime,Data Scientist,GBP,116914.0,GB,50,United Kingdom,Large,Data Scientist,Eropa
+222,2021,Mid-Level,FullTime,Data Scientist,INR,33808.0,IN,0,India,Medium,Data Scientist,Asia
+223,2021,Mid-Level,FullTime,Data Scientist,GBP,56256.0,GB,50,United Kingdom,Large,Data Scientist,Eropa
+224,2021,Senior-Level,FullTime,Machine Learning Scientist,USD,225000.0,US,100,Canada,Large,Data Scientist,Amerika
+225,2021,Expert-Level,Contract,Principal Data Scientist,USD,416000.0,US,100,United States,Small,Data Scientist,Amerika
+226,2021,Senior-Level,FullTime,Data Scientist,CAD,87738.0,CA,100,Canada,Small,Data Scientist,Amerika
+227,2021,Mid-Level,FullTime,Data Scientist,EUR,88654.0,DE,50,Germany,Large,Data Scientist,Eropa
+228,2021,Senior-Level,FullTime,Data Scientist,USD,135000.0,US,0,United States,Large,Data Scientist,Amerika
+229,2021,Senior-Level,FullTime,Data Analyst,CAD,71786.0,CA,100,Canada,Medium,Data Analyst,Amerika
+230,2021,Entry-Level,FullTime,Big Data Engineer,INR,16228.0,IN,100,India,Large,Data Engineer,Asia
+231,2021,Senior-Level,FullTime,Machine Learning Engineer,USD,256000.0,US,100,United States,Small,Data Engineer,Amerika
+232,2021,Senior-Level,FullTime,Director of Data Engineering,USD,200000.0,US,100,United States,Large,Data Engineer,Amerika
+233,2021,Senior-Level,FullTime,Data Analyst,USD,200000.0,US,100,United States,Large,Data Analyst,Amerika
+234,2021,Mid-Level,FullTime,Data Architect,USD,180000.0,US,100,United States,Large,Data Engineer,Amerika
+235,2021,Mid-Level,FullTime,Head of Data Science,USD,110000.0,US,0,United States,Small,Data Scientist,Amerika
+236,2021,Mid-Level,FullTime,Research Scientist,CAD,63810.0,CA,100,Canada,Medium,Data Scientist,Amerika
+237,2021,Mid-Level,FullTime,Data Scientist,EUR,46809.0,ES,100,Spain,Medium,Data Scientist,Eropa
+238,2021,Entry-Level,FullTime,Data Scientist,USD,4000.0,VN,0,Vietnam,Medium,Data Scientist,Asia
+239,2021,Entry-Level,FullTime,Data Engineer,INR,21637.0,IN,50,India,Medium,Data Engineer,Asia
+240,2021,Senior-Level,FullTime,Data Scientist,CAD,103691.0,CA,100,Canada,Large,Data Scientist,Amerika
+241,2021,Mid-Level,FullTime,Data Analyst,USD,80000.0,US,100,United States,Large,Data Analyst,Amerika
+242,2021,Mid-Level,FullTime,Data Engineer,USD,110000.0,US,100,United States,Large,Data Engineer,Amerika
+243,2021,Senior-Level,FullTime,Data Scientist,USD,165000.0,US,100,United States,Large,Data Scientist,Amerika
+244,2021,Entry-Level,FullTime,AI Scientist,INR,18053.0,IN,100,American Samoa,Small,Data Scientist,Other
+245,2021,Mid-Level,FullTime,Data Engineer,GBP,72212.0,GB,50,United Kingdom,Large,Data Engineer,Eropa
+246,2021,Entry-Level,FullTime,Data Scientist,EUR,36643.0,FR,50,France,Large,Data Scientist,Eropa
+247,2021,Mid-Level,FullTime,Data Engineer,TRY,12103.0,TR,0,Turkey,Medium,Data Engineer,Asia
+248,2021,Senior-Level,FullTime,Data Engineer,GBP,96282.0,GB,50,United Kingdom,Large,Data Engineer,Eropa
+249,2021,Senior-Level,FullTime,Principal Data Analyst,USD,170000.0,US,100,United States,Medium,Data Analyst,Amerika
+250,2021,Mid-Level,FullTime,Data Scientist,USD,115000.0,US,50,United States,Large,Data Scientist,Amerika
+251,2021,Entry-Level,FullTime,Data Scientist,USD,90000.0,US,100,United States,Small,Data Scientist,Amerika
+252,2021,Expert-Level,FullTime,Principal Data Engineer,USD,600000.0,US,100,United States,Large,Data Engineer,Amerika
+253,2021,Entry-Level,FullTime,Data Scientist,INR,28399.0,IN,100,India,Medium,Data Scientist,Asia
+254,2021,Mid-Level,FullTime,Data Analyst,USD,93000.0,US,100,United States,Large,Data Analyst,Amerika
+255,2021,Senior-Level,FullTime,Big Data Architect,CAD,99703.0,CA,50,Canada,Medium,Data Engineer,Amerika
+256,2021,Mid-Level,FullTime,Data Engineer,USD,200000.0,US,100,United States,Large,Data Engineer,Amerika
+257,2021,Senior-Level,FullTime,Principal Data Scientist,EUR,173762.0,DE,100,Germany,Medium,Data Scientist,Eropa
+258,2021,Senior-Level,FullTime,Machine Learning Engineer,USD,185000.0,US,50,United States,Large,Data Engineer,Amerika
+259,2021,Expert-Level,FullTime,Director of Data Science,EUR,141846.0,DE,0,Germany,Large,Data Scientist,Eropa
+260,2021,Mid-Level,FullTime,Data Scientist,USD,130000.0,US,50,United States,Large,Data Scientist,Amerika
+261,2021,Senior-Level,FullTime,Data Analyst,EUR,63831.0,DE,50,Germany,Large,Data Analyst,Eropa
+262,2021,Mid-Level,FullTime,Data Scientist,INR,16904.0,IN,100,India,Small,Data Scientist,Asia
+263,2021,Senior-Level,FullTime,Machine Learning Engineer,INR,66265.0,IN,0,India,Large,Data Engineer,Asia
+264,2021,Mid-Level,FullTime,Data Scientist,EUR,25532.0,RS,100,Germany,Small,Data Scientist,Eropa
+265,2021,Senior-Level,FullTime,Lead Data Engineer,USD,160000.0,PR,50,United States,Small,Data Engineer,Amerika
+266,2021,Mid-Level,FullTime,Data Engineer,USD,93150.0,US,0,United States,Medium,Data Engineer,Amerika
+267,2021,Mid-Level,FullTime,Data Engineer,USD,111775.0,US,0,United States,Medium,Data Engineer,Amerika
+268,2021,Mid-Level,FullTime,Data Engineer,TRY,28016.0,TR,100,Turkey,Medium,Data Engineer,Asia
+269,2021,Entry-Level,FullTime,Data Engineer,EUR,65013.0,DE,50,Germany,Medium,Data Engineer,Eropa
+270,2021,Entry-Level,FullTime,Data Engineer,USD,72500.0,US,100,United States,Large,Data Engineer,Amerika
+271,2021,Senior-Level,FullTime,Computer Vision Engineer,BRL,18907.0,BR,0,Brazil,Medium,Data Engineer,Amerika
+272,2021,Entry-Level,FullTime,Data Science Consultant,EUR,76833.0,DE,0,Germany,Large,Data Scientist,Eropa
+273,2021,Entry-Level,FullTime,Machine Learning Engineer,USD,85000.0,NL,100,Germany,Small,Data Engineer,Eropa
+274,2021,Senior-Level,FullTime,Data Scientist,EUR,77684.0,FR,50,France,Medium,Data Scientist,Eropa
+275,2021,Entry-Level,FullTime,Data Scientist,USD,100000.0,US,100,United States,Medium,Data Scientist,Amerika
+276,2021,Entry-Level,FullTime,Data Scientist,USD,58000.0,US,50,United States,Large,Data Scientist,Amerika
+277,2021,Senior-Level,FullTime,AI Scientist,USD,55000.0,ES,100,Spain,Large,Data Scientist,Eropa
+278,2021,Senior-Level,FullTime,Data Scientist,TRY,20171.0,TR,50,Turkey,Large,Data Scientist,Asia
+279,2021,Entry-Level,FullTime,Business Data Analyst,EUR,59102.0,LU,100,Luxembourg,Large,Data Analyst,Eropa
+280,2021,Mid-Level,FullTime,Data Engineer,USD,112000.0,US,100,United States,Large,Data Engineer,Amerika
+281,2021,Entry-Level,FullTime,Research Scientist,USD,100000.0,JE,0,China,Large,Data Scientist,Asia
+282,2021,Mid-Level,PartTime,Data Engineer,EUR,69741.0,NL,100,Netherlands,Large,Data Engineer,Eropa
+283,2021,Senior-Level,Contract,Staff Data Scientist,USD,105000.0,US,100,United States,Medium,Data Scientist,Amerika
+284,2021,Mid-Level,FullTime,Research Scientist,USD,69999.0,CZ,50,Czech Republic,Large,Data Scientist,Eropa
+285,2021,Senior-Level,FullTime,Data Science Manager,INR,94665.0,IN,50,India,Large,Data Scientist,Asia
+286,2021,Senior-Level,FullTime,Head of Data,EUR,102839.0,SI,100,Slovenia,Large,Data Engineer,Eropa
+287,2021,Mid-Level,FullTime,Data Scientist,USD,109000.0,US,50,United States,Large,Data Scientist,Amerika
+288,2021,Mid-Level,FullTime,Machine Learning Engineer,EUR,51064.0,IT,50,Italy,Large,Data Engineer,Eropa
+289,2022,Senior-Level,FullTime,Data Engineer,USD,135000.0,US,100,United States,Medium,Data Engineer,Amerika
+290,2022,Senior-Level,FullTime,Data Analyst,USD,155000.0,US,100,United States,Medium,Data Analyst,Amerika
+291,2022,Senior-Level,FullTime,Data Analyst,USD,120600.0,US,100,United States,Medium,Data Analyst,Amerika
+292,2022,Mid-Level,FullTime,Data Scientist,USD,130000.0,US,0,United States,Medium,Data Scientist,Amerika
+293,2022,Mid-Level,FullTime,Data Scientist,USD,90000.0,US,0,United States,Medium,Data Scientist,Amerika
+294,2022,Mid-Level,FullTime,Data Engineer,USD,170000.0,US,100,United States,Medium,Data Engineer,Amerika
+295,2022,Mid-Level,FullTime,Data Engineer,USD,150000.0,US,100,United States,Medium,Data Engineer,Amerika
+296,2022,Senior-Level,FullTime,Data Analyst,USD,102100.0,US,100,United States,Medium,Data Analyst,Amerika
+297,2022,Senior-Level,FullTime,Data Analyst,USD,84900.0,US,100,United States,Medium,Data Analyst,Amerika
+298,2022,Senior-Level,FullTime,Data Scientist,USD,136620.0,US,100,United States,Medium,Data Scientist,Amerika
+299,2022,Senior-Level,FullTime,Data Scientist,USD,99360.0,US,100,United States,Medium,Data Scientist,Amerika
+300,2022,Senior-Level,FullTime,Data Scientist,GBP,117789.0,GB,0,United Kingdom,Medium,Data Scientist,Eropa
+301,2022,Senior-Level,FullTime,Data Scientist,GBP,104702.0,GB,0,United Kingdom,Medium,Data Scientist,Eropa
+302,2022,Senior-Level,FullTime,Data Scientist,USD,146000.0,US,100,United States,Medium,Data Scientist,Amerika
+303,2022,Senior-Level,FullTime,Data Scientist,USD,123000.0,US,100,United States,Medium,Data Scientist,Amerika
+304,2022,Entry-Level,FullTime,Data Engineer,GBP,52351.0,GB,100,United Kingdom,Medium,Data Engineer,Eropa
+305,2022,Senior-Level,FullTime,Data Analyst,USD,99000.0,US,0,United States,Medium,Data Analyst,Amerika
+306,2022,Senior-Level,FullTime,Data Analyst,USD,116000.0,US,0,United States,Medium,Data Analyst,Amerika
+307,2022,Mid-Level,FullTime,Data Analyst,USD,106260.0,US,0,United States,Medium,Data Analyst,Amerika
+308,2022,Mid-Level,FullTime,Data Analyst,USD,126500.0,US,0,United States,Medium,Data Analyst,Amerika
+309,2022,Expert-Level,FullTime,Data Engineer,USD,242000.0,US,100,United States,Medium,Data Engineer,Amerika
+310,2022,Expert-Level,FullTime,Data Engineer,USD,200000.0,US,100,United States,Medium,Data Engineer,Amerika
+311,2022,Mid-Level,FullTime,Data Scientist,GBP,65438.0,GB,0,United Kingdom,Medium,Data Scientist,Eropa
+312,2022,Mid-Level,FullTime,Data Scientist,GBP,39263.0,GB,0,United Kingdom,Medium,Data Scientist,Eropa
+313,2022,Mid-Level,FullTime,Data Engineer,GBP,78526.0,GB,0,United Kingdom,Medium,Data Engineer,Eropa
+314,2022,Mid-Level,FullTime,Data Engineer,GBP,52351.0,GB,0,United Kingdom,Medium,Data Engineer,Eropa
+315,2022,Senior-Level,FullTime,Data Scientist,USD,165220.0,US,100,United States,Medium,Data Scientist,Amerika
+316,2022,Entry-Level,FullTime,Data Engineer,GBP,45807.0,GB,100,United Kingdom,Medium,Data Engineer,Eropa
+317,2022,Senior-Level,FullTime,Data Scientist,USD,120160.0,US,100,United States,Medium,Data Scientist,Amerika
+318,2022,Senior-Level,FullTime,Data Analyst,USD,90320.0,US,100,United States,Medium,Data Analyst,Amerika
+319,2022,Senior-Level,FullTime,Data Engineer,USD,181940.0,US,0,United States,Medium,Data Engineer,Amerika
+320,2022,Senior-Level,FullTime,Data Engineer,USD,132320.0,US,0,United States,Medium,Data Engineer,Amerika
+321,2022,Senior-Level,FullTime,Data Engineer,USD,220110.0,US,0,United States,Medium,Data Engineer,Amerika
+322,2022,Senior-Level,FullTime,Data Engineer,USD,160080.0,US,0,United States,Medium,Data Engineer,Amerika
+323,2022,Senior-Level,FullTime,Data Scientist,USD,180000.0,US,0,United States,Large,Data Scientist,Amerika
+324,2022,Senior-Level,FullTime,Data Scientist,USD,120000.0,US,0,United States,Large,Data Scientist,Amerika
+325,2022,Senior-Level,FullTime,Data Analyst,USD,124190.0,US,100,United States,Medium,Data Analyst,Amerika
+326,2022,Expert-Level,FullTime,Data Analyst,USD,130000.0,US,100,United States,Medium,Data Analyst,Amerika
+327,2022,Expert-Level,FullTime,Data Analyst,USD,110000.0,US,100,United States,Medium,Data Analyst,Amerika
+328,2022,Senior-Level,FullTime,Data Analyst,USD,170000.0,US,100,United States,Medium,Data Analyst,Amerika
+329,2022,Mid-Level,FullTime,Data Analyst,USD,115500.0,US,100,United States,Medium,Data Analyst,Amerika
+330,2022,Senior-Level,FullTime,Data Analyst,USD,112900.0,US,100,United States,Medium,Data Analyst,Amerika
+331,2022,Senior-Level,FullTime,Data Analyst,USD,90320.0,US,100,United States,Medium,Data Analyst,Amerika
+332,2022,Senior-Level,FullTime,Data Analyst,USD,112900.0,US,100,United States,Medium,Data Analyst,Amerika
+333,2022,Senior-Level,FullTime,Data Analyst,USD,90320.0,US,100,United States,Medium,Data Analyst,Amerika
+334,2022,Senior-Level,FullTime,Data Engineer,USD,165400.0,US,100,United States,Medium,Data Engineer,Amerika
+335,2022,Senior-Level,FullTime,Data Engineer,USD,132320.0,US,100,United States,Medium,Data Engineer,Amerika
+336,2022,Mid-Level,FullTime,Data Analyst,USD,167000.0,US,100,United States,Medium,Data Analyst,Amerika
+337,2022,Senior-Level,FullTime,Data Engineer,USD,243900.0,US,100,United States,Medium,Data Engineer,Amerika
+338,2022,Senior-Level,FullTime,Data Analyst,USD,136600.0,US,100,United States,Medium,Data Analyst,Amerika
+339,2022,Senior-Level,FullTime,Data Analyst,USD,109280.0,US,100,United States,Medium,Data Analyst,Amerika
+340,2022,Senior-Level,FullTime,Data Engineer,USD,128875.0,US,100,United States,Medium,Data Engineer,Amerika
+341,2022,Senior-Level,FullTime,Data Engineer,USD,93700.0,US,100,United States,Medium,Data Engineer,Amerika
+342,2022,Expert-Level,FullTime,Head of Data Science,USD,224000.0,US,100,United States,Medium,Data Scientist,Amerika
+343,2022,Expert-Level,FullTime,Head of Data Science,USD,167875.0,US,100,United States,Medium,Data Scientist,Amerika
+344,2022,Expert-Level,FullTime,Analytics Engineer,USD,175000.0,US,100,United States,Medium,Data Analyst,Amerika
+345,2022,Senior-Level,FullTime,Data Engineer,USD,156600.0,US,100,United States,Medium,Data Engineer,Amerika
+346,2022,Senior-Level,FullTime,Data Engineer,USD,108800.0,US,0,United States,Medium,Data Engineer,Amerika
+347,2022,Senior-Level,FullTime,Data Scientist,USD,95550.0,US,0,United States,Medium,Data Scientist,Amerika
+348,2022,Senior-Level,FullTime,Data Engineer,USD,113000.0,US,0,United States,Large,Data Engineer,Amerika
+349,2022,Senior-Level,FullTime,Data Analyst,USD,135000.0,US,100,United States,Medium,Data Analyst,Amerika
+350,2022,Senior-Level,FullTime,Data Science Manager,USD,161342.0,US,100,United States,Medium,Data Scientist,Amerika
+351,2022,Senior-Level,FullTime,Data Science Manager,USD,137141.0,US,100,United States,Medium,Data Scientist,Amerika
+352,2022,Senior-Level,FullTime,Data Scientist,USD,167000.0,US,100,United States,Medium,Data Scientist,Amerika
+353,2022,Senior-Level,FullTime,Data Scientist,USD,123000.0,US,100,United States,Medium,Data Scientist,Amerika
+354,2022,Senior-Level,FullTime,Data Engineer,GBP,78526.0,GB,0,United Kingdom,Medium,Data Engineer,Eropa
+355,2022,Senior-Level,FullTime,Data Engineer,GBP,65438.0,GB,0,United Kingdom,Medium,Data Engineer,Eropa
+356,2022,Senior-Level,FullTime,Data Scientist,USD,150000.0,US,0,United States,Medium,Data Scientist,Amerika
+357,2022,Senior-Level,FullTime,Data Scientist,USD,211500.0,US,100,United States,Medium,Data Scientist,Amerika
+358,2022,Senior-Level,FullTime,Data Architect,USD,192400.0,CA,100,Canada,Medium,Data Engineer,Amerika
+359,2022,Senior-Level,FullTime,Data Architect,USD,90700.0,CA,100,Canada,Medium,Data Engineer,Amerika
+360,2022,Senior-Level,FullTime,Data Analyst,USD,130000.0,CA,100,Canada,Medium,Data Analyst,Amerika
+361,2022,Senior-Level,FullTime,Data Analyst,USD,61300.0,CA,100,Canada,Medium,Data Analyst,Amerika
+362,2022,Senior-Level,FullTime,Data Analyst,USD,130000.0,CA,100,Canada,Medium,Data Analyst,Amerika
+363,2022,Senior-Level,FullTime,Data Analyst,USD,61300.0,CA,100,Canada,Medium,Data Analyst,Amerika
+364,2022,Senior-Level,FullTime,Data Engineer,USD,160000.0,US,0,United States,Large,Data Engineer,Amerika
+365,2022,Senior-Level,FullTime,Data Scientist,USD,138600.0,US,100,United States,Medium,Data Scientist,Amerika
+366,2022,Senior-Level,FullTime,Data Engineer,USD,136000.0,US,0,United States,Medium,Data Engineer,Amerika
+367,2022,Mid-Level,FullTime,Data Analyst,USD,58000.0,US,0,United States,Small,Data Analyst,Amerika
+368,2022,Expert-Level,FullTime,Analytics Engineer,USD,135000.0,US,100,United States,Medium,Data Analyst,Amerika
+369,2022,Senior-Level,FullTime,Data Scientist,USD,170000.0,US,100,United States,Medium,Data Scientist,Amerika
+370,2022,Senior-Level,FullTime,Data Scientist,USD,123000.0,US,100,United States,Medium,Data Scientist,Amerika
+371,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,189650.0,US,0,United States,Medium,Data Engineer,Amerika
+372,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,164996.0,US,0,United States,Medium,Data Engineer,Amerika
+373,2022,Mid-Level,FullTime,ETL Developer,EUR,54957.0,GR,0,Greece,Medium,Data Engineer,Eropa
+374,2022,Mid-Level,FullTime,ETL Developer,EUR,54957.0,GR,0,Greece,Medium,Data Engineer,Eropa
+375,2022,Expert-Level,FullTime,Lead Data Engineer,CAD,118187.0,CA,100,Canada,Small,Data Engineer,Amerika
+376,2022,Senior-Level,FullTime,Data Analyst,USD,132000.0,US,0,United States,Medium,Data Analyst,Amerika
+377,2022,Senior-Level,FullTime,Data Engineer,USD,165400.0,US,100,United States,Medium,Data Engineer,Amerika
+378,2022,Senior-Level,FullTime,Data Architect,USD,208775.0,US,100,United States,Medium,Data Engineer,Amerika
+379,2022,Senior-Level,FullTime,Data Architect,USD,147800.0,US,100,United States,Medium,Data Engineer,Amerika
+380,2022,Senior-Level,FullTime,Data Engineer,USD,136994.0,US,100,United States,Medium,Data Engineer,Amerika
+381,2022,Senior-Level,FullTime,Data Engineer,USD,101570.0,US,100,United States,Medium,Data Engineer,Amerika
+382,2022,Senior-Level,FullTime,Data Analyst,USD,128875.0,US,100,United States,Medium,Data Analyst,Amerika
+383,2022,Senior-Level,FullTime,Data Analyst,USD,93700.0,US,100,United States,Medium,Data Analyst,Amerika
+384,2022,Expert-Level,FullTime,Head of Machine Learning,INR,79039.0,IN,50,India,Large,Data Engineer,Asia
+385,2022,Senior-Level,FullTime,Data Engineer,USD,132320.0,US,100,United States,Medium,Data Engineer,Amerika
+386,2022,Entry-Level,FullTime,Machine Learning Engineer,GBP,37300.0,GB,100,United Kingdom,Large,Data Engineer,Eropa
+387,2022,Senior-Level,FullTime,Data Analyst,USD,164000.0,US,0,United States,Medium,Data Analyst,Amerika
+388,2022,Senior-Level,FullTime,Data Engineer,USD,155000.0,US,100,United States,Medium,Data Engineer,Amerika
+389,2022,Mid-Level,FullTime,Machine Learning Engineer,GBP,124333.0,GB,0,United Kingdom,Medium,Data Engineer,Eropa
+390,2022,Mid-Level,FullTime,Machine Learning Engineer,GBP,98158.0,GB,0,United Kingdom,Medium,Data Engineer,Eropa
+391,2022,Mid-Level,FullTime,AI Scientist,USD,120000.0,US,0,United States,Medium,Data Scientist,Amerika
+392,2022,Senior-Level,FullTime,Data Analyst,USD,112900.0,US,100,United States,Medium,Data Analyst,Amerika
+393,2022,Senior-Level,FullTime,Data Analyst,USD,90320.0,US,100,United States,Medium,Data Analyst,Amerika
+394,2022,Senior-Level,FullTime,Data Analytics Manager,USD,145000.0,US,100,United States,Medium,Data Analyst,Amerika
+395,2022,Senior-Level,FullTime,Data Analytics Manager,USD,105400.0,US,100,United States,Medium,Data Analyst,Amerika
+396,2022,Mid-Level,FullTime,Machine Learning Engineer,EUR,87932.0,FR,100,Germany,Medium,Data Engineer,Eropa
+397,2022,Mid-Level,FullTime,Data Engineer,GBP,117789.0,GB,0,United Kingdom,Medium,Data Engineer,Eropa
+398,2022,Senior-Level,FullTime,Data Scientist,USD,215300.0,US,100,United States,Large,Data Scientist,Amerika
+399,2022,Senior-Level,FullTime,Data Scientist,USD,158200.0,US,100,United States,Large,Data Scientist,Amerika
+400,2022,Senior-Level,FullTime,Data Engineer,USD,209100.0,US,100,United States,Large,Data Engineer,Amerika
+401,2022,Senior-Level,FullTime,Data Engineer,USD,154600.0,US,100,United States,Large,Data Engineer,Amerika
+402,2022,Senior-Level,FullTime,Data Analyst,USD,115934.0,US,0,United States,Medium,Data Analyst,Amerika
+403,2022,Senior-Level,FullTime,Data Analyst,USD,81666.0,US,0,United States,Medium,Data Analyst,Amerika
+404,2022,Senior-Level,FullTime,Data Engineer,USD,175000.0,US,100,United States,Medium,Data Engineer,Amerika
+405,2022,Mid-Level,FullTime,Data Engineer,GBP,98158.0,GB,0,United Kingdom,Medium,Data Engineer,Eropa
+406,2022,Mid-Level,FullTime,Data Analyst,USD,58000.0,US,0,United States,Small,Data Analyst,Amerika
+407,2022,Senior-Level,FullTime,Data Engineer,USD,183600.0,US,100,United States,Large,Data Engineer,Amerika
+408,2022,Mid-Level,FullTime,Data Analyst,GBP,52351.0,GB,100,United Kingdom,Medium,Data Analyst,Eropa
+409,2022,Senior-Level,FullTime,Data Scientist,USD,180000.0,US,100,United States,Medium,Data Scientist,Amerika
+410,2022,Mid-Level,FullTime,Data Scientist,GBP,71982.0,GB,0,United Kingdom,Medium,Data Scientist,Eropa
+411,2022,Mid-Level,FullTime,Data Scientist,GBP,45807.0,GB,0,United Kingdom,Medium,Data Scientist,Eropa
+412,2022,Mid-Level,FullTime,Data Engineer,EUR,65949.0,GR,100,Greece,Medium,Data Engineer,Eropa
+413,2022,Mid-Level,FullTime,Data Engineer,EUR,49461.0,GR,100,Greece,Medium,Data Engineer,Eropa
+414,2022,Mid-Level,FullTime,Data Engineer,GBP,78526.0,GB,100,United Kingdom,Medium,Data Engineer,Eropa
+415,2022,Mid-Level,FullTime,Data Engineer,GBP,58894.0,GB,100,United Kingdom,Medium,Data Engineer,Eropa
+416,2022,Senior-Level,FullTime,Data Scientist,USD,260000.0,US,100,United States,Medium,Data Scientist,Amerika
+417,2022,Senior-Level,FullTime,Data Science Engineer,USD,60000.0,AR,100,Mexico,Large,Data Engineer,Amerika
+418,2022,Mid-Level,FullTime,Data Engineer,USD,63900.0,US,0,United States,Medium,Data Engineer,Amerika
+419,2022,Mid-Level,FullTime,Machine Learning Scientist,USD,160000.0,US,100,United States,Large,Data Scientist,Amerika
+420,2022,Mid-Level,FullTime,Machine Learning Scientist,USD,112300.0,US,100,United States,Large,Data Scientist,Amerika
+421,2022,Mid-Level,FullTime,Data Science Manager,USD,241000.0,US,100,United States,Medium,Data Scientist,Amerika
+422,2022,Mid-Level,FullTime,Data Science Manager,USD,159000.0,US,100,United States,Medium,Data Scientist,Amerika
+423,2022,Senior-Level,FullTime,Data Scientist,USD,180000.0,US,0,United States,Medium,Data Scientist,Amerika
+424,2022,Senior-Level,FullTime,Data Scientist,USD,80000.0,US,0,United States,Medium,Data Scientist,Amerika
+425,2022,Mid-Level,FullTime,Data Engineer,USD,82900.0,US,0,United States,Medium,Data Engineer,Amerika
+426,2022,Senior-Level,FullTime,Data Engineer,USD,100800.0,US,100,United States,Large,Data Engineer,Amerika
+427,2022,Mid-Level,FullTime,Data Engineer,EUR,49461.0,ES,100,Spain,Medium,Data Engineer,Eropa
+428,2022,Senior-Level,FullTime,Data Scientist,USD,140400.0,US,0,United States,Large,Data Scientist,Amerika
+429,2022,Mid-Level,FullTime,Data Analyst,GBP,39263.0,GB,100,United Kingdom,Medium,Data Analyst,Eropa
+430,2022,Mid-Level,FullTime,Data Analyst,EUR,43966.0,ES,100,Spain,Medium,Data Analyst,Eropa
+431,2022,Mid-Level,FullTime,Data Analyst,EUR,32974.0,ES,100,Spain,Medium,Data Analyst,Eropa
+432,2022,Mid-Level,FullTime,Data Engineer,EUR,87932.0,ES,100,Spain,Medium,Data Engineer,Eropa
+433,2022,Mid-Level,FullTime,Data Engineer,EUR,76940.0,ES,100,Spain,Medium,Data Engineer,Eropa
+434,2022,Mid-Level,FullTime,Data Engineer,GBP,104702.0,GB,100,United Kingdom,Medium,Data Engineer,Eropa
+435,2022,Mid-Level,FullTime,Data Engineer,GBP,91614.0,GB,100,United Kingdom,Medium,Data Engineer,Eropa
+436,2022,Mid-Level,FullTime,Data Engineer,EUR,65949.0,ES,100,Spain,Medium,Data Engineer,Eropa
+437,2022,Mid-Level,FullTime,Data Engineer,EUR,87932.0,GR,100,Greece,Medium,Data Engineer,Eropa
+438,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,189650.0,US,0,United States,Medium,Data Engineer,Amerika
+439,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,164996.0,US,0,United States,Medium,Data Engineer,Amerika
+440,2022,Mid-Level,FullTime,Data Analyst,EUR,43966.0,GR,100,Greece,Medium,Data Analyst,Eropa
+441,2022,Mid-Level,FullTime,Data Analyst,EUR,32974.0,GR,100,Greece,Medium,Data Analyst,Eropa
+442,2022,Mid-Level,FullTime,Data Engineer,GBP,98158.0,GB,100,United Kingdom,Medium,Data Engineer,Eropa
+443,2022,Mid-Level,FullTime,Data Engineer,GBP,78526.0,GB,100,United Kingdom,Medium,Data Engineer,Eropa
+444,2022,Senior-Level,FullTime,Data Scientist,USD,215300.0,US,0,United States,Large,Data Scientist,Amerika
+445,2022,Mid-Level,FullTime,Data Engineer,EUR,76940.0,GR,100,Greece,Medium,Data Engineer,Eropa
+446,2022,Senior-Level,FullTime,Data Engineer,USD,209100.0,US,100,United States,Large,Data Engineer,Amerika
+447,2022,Senior-Level,FullTime,Data Engineer,USD,154600.0,US,100,United States,Large,Data Engineer,Amerika
+448,2022,Senior-Level,FullTime,Data Engineer,USD,180000.0,US,100,United States,Medium,Data Engineer,Amerika
+449,2022,Entry-Level,FullTime,Machine Learning Engineer,EUR,21983.0,PT,100,Portugal,Large,Data Engineer,Eropa
+450,2022,Senior-Level,FullTime,Data Engineer,USD,80000.0,US,100,United States,Medium,Data Engineer,Amerika
+451,2022,Mid-Level,FullTime,Machine Learning Developer,CAD,78791.0,CA,100,Canada,Medium,Data Engineer,Amerika
+452,2022,Expert-Level,FullTime,Director of Data Science,CAD,196979.0,CA,50,Canada,Large,Data Scientist,Amerika
+453,2022,Mid-Level,FullTime,Machine Learning Engineer,USD,120000.0,US,100,United States,Small,Data Engineer,Amerika
+454,2022,Entry-Level,FullTime,Computer Vision Engineer,USD,125000.0,US,0,United States,Medium,Data Engineer,Amerika
+455,2022,Mid-Level,FullTime,NLP Engineer,CNY,37236.0,US,50,United States,Large,Data Engineer,Amerika
+456,2022,Senior-Level,FullTime,Data Engineer,USD,105000.0,US,100,United States,Medium,Data Engineer,Amerika
+457,2022,Senior-Level,FullTime,Lead Machine Learning Engineer,EUR,87932.0,DE,0,Germany,Medium,Data Engineer,Eropa
+458,2022,Mid-Level,FullTime,Business Data Analyst,INR,18442.0,IN,100,India,Medium,Data Analyst,Asia
+459,2022,Mid-Level,FullTime,Data Scientist,INR,31615.0,IN,100,India,Large,Data Scientist,Asia
+460,2022,Mid-Level,FullTime,Machine Learning Infrastructure Engineer,EUR,58255.0,PT,50,Portugal,Large,Data Engineer,Eropa
+461,2022,Entry-Level,FullTime,Financial Data Analyst,USD,100000.0,US,50,United States,Large,Data Analyst,Amerika
+462,2022,Mid-Level,PartTime,Data Engineer,EUR,54957.0,DE,50,Germany,Large,Data Engineer,Eropa
+463,2022,Entry-Level,FullTime,Data Scientist,INR,18442.0,IN,100,India,Medium,Data Scientist,Asia
+464,2022,Senior-Level,FullTime,Principal Data Scientist,EUR,162674.0,DE,100,Germany,Medium,Data Scientist,Eropa
+465,2022,Entry-Level,FullTime,Data Engineer,USD,120000.0,US,100,United States,Medium,Data Engineer,Amerika
+466,2022,Senior-Level,FullTime,Research Scientist,USD,144000.0,US,50,United States,Large,Data Scientist,Amerika
+467,2022,Senior-Level,FullTime,Data Scientist,USD,104890.0,US,100,United States,Medium,Data Scientist,Amerika
+468,2022,Senior-Level,FullTime,Data Engineer,USD,100000.0,US,100,United States,Medium,Data Engineer,Amerika
+469,2022,Senior-Level,FullTime,Data Scientist,USD,140000.0,US,100,United States,Medium,Data Scientist,Amerika
+470,2022,Mid-Level,FullTime,Data Analyst,USD,135000.0,US,100,United States,Medium,Data Analyst,Amerika
+471,2022,Mid-Level,FullTime,Data Analyst,USD,50000.0,US,100,United States,Medium,Data Analyst,Amerika
+472,2022,Senior-Level,FullTime,Data Scientist,USD,220000.0,US,100,United States,Medium,Data Scientist,Amerika
+473,2022,Senior-Level,FullTime,Data Scientist,USD,140000.0,US,100,United States,Medium,Data Scientist,Amerika
+474,2022,Mid-Level,FullTime,Data Scientist,GBP,183228.0,GB,0,United Kingdom,Medium,Data Scientist,Eropa
+475,2022,Mid-Level,FullTime,Data Scientist,GBP,91614.0,GB,0,United Kingdom,Medium,Data Scientist,Eropa
+476,2022,Senior-Level,FullTime,Data Scientist,USD,185100.0,US,100,United States,Medium,Data Scientist,Amerika
+477,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,220000.0,US,100,United States,Medium,Data Engineer,Amerika
+478,2022,Mid-Level,FullTime,Data Scientist,USD,200000.0,US,100,United States,Medium,Data Scientist,Amerika
+479,2022,Mid-Level,FullTime,Data Scientist,USD,120000.0,US,100,United States,Medium,Data Scientist,Amerika
+480,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,120000.0,AE,100,United Arab Emirates,Small,Data Engineer,Asia
+481,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,65000.0,AE,100,United Arab Emirates,Small,Data Engineer,Asia
+482,2022,Expert-Level,FullTime,Data Engineer,USD,324000.0,US,100,United States,Medium,Data Engineer,Amerika
+483,2022,Expert-Level,FullTime,Data Engineer,USD,216000.0,US,100,United States,Medium,Data Engineer,Amerika
+484,2022,Senior-Level,FullTime,Data Engineer,USD,210000.0,US,100,United States,Medium,Data Engineer,Amerika
+485,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,120000.0,US,100,United States,Medium,Data Engineer,Amerika
+486,2022,Senior-Level,FullTime,Data Scientist,USD,230000.0,US,100,United States,Medium,Data Scientist,Amerika
+487,2022,Entry-Level,PartTime,Data Scientist,USD,100000.0,DZ,50,Algeria,Medium,Data Scientist,Afrika
+488,2022,Mid-Level,FreeLance,Data Scientist,USD,100000.0,CA,100,United States,Medium,Data Scientist,Amerika
+489,2022,Entry-Level,Contract,Applied Machine Learning Scientist,EUR,31875.0,TN,100,Czech Republic,Medium,Data Scientist,Eropa
+490,2022,Senior-Level,FullTime,Head of Data,USD,200000.0,MY,100,United States,Medium,Data Engineer,Amerika
+491,2022,Mid-Level,FullTime,Principal Data Analyst,USD,75000.0,CA,100,Canada,Small,Data Analyst,Amerika
+492,2022,Mid-Level,FullTime,Data Scientist,PLN,35590.0,PL,100,Poland,Large,Data Scientist,Eropa
+493,2022,Senior-Level,FullTime,Machine Learning Developer,CAD,78791.0,CA,100,Canada,Medium,Data Engineer,Amerika
+494,2022,Senior-Level,FullTime,Data Scientist,USD,100000.0,BR,100,United States,Medium,Data Scientist,Amerika
+495,2022,Mid-Level,FullTime,Machine Learning Scientist,USD,153000.0,US,50,United States,Medium,Data Scientist,Amerika
+496,2022,Entry-Level,FullTime,Data Engineer,EUR,58035.0,PK,100,Germany,Medium,Data Engineer,Eropa
+497,2022,Senior-Level,FullTime,Data Scientist,USD,165000.0,US,100,United States,Medium,Data Scientist,Amerika
+498,2022,Senior-Level,FullTime,Research Scientist,EUR,93427.0,FR,50,France,Large,Data Scientist,Eropa
+499,2022,Entry-Level,FullTime,Data Scientist,CAD,52396.0,CA,100,Canada,Large,Data Scientist,Amerika
+500,2022,Senior-Level,FullTime,Machine Learning Engineer,EUR,62651.0,NL,100,Netherlands,Large,Data Engineer,Eropa
+501,2022,Mid-Level,FullTime,Head of Data,EUR,32974.0,EE,100,Estonia,Small,Data Engineer,Eropa
+502,2022,Entry-Level,FullTime,Data Scientist,USD,40000.0,JP,100,Malaysia,Large,Data Scientist,Asia
+503,2022,Mid-Level,FullTime,Machine Learning Engineer,AUD,87425.0,AU,100,Australia,Large,Data Engineer,Asia
+504,2022,Senior-Level,FullTime,Data Engineer,USD,115000.0,US,100,United States,Medium,Data Engineer,Amerika
+505,2022,Entry-Level,FullTime,Data Scientist,AUD,86703.0,AU,50,Australia,Medium,Data Scientist,Asia
+506,2022,Mid-Level,FullTime,Applied Machine Learning Scientist,USD,75000.0,BO,100,United States,Large,Data Scientist,Amerika
+507,2022,Mid-Level,FullTime,Research Scientist,EUR,64849.0,AT,0,Austria,Large,Data Scientist,Eropa
+508,2022,Entry-Level,FullTime,Research Scientist,USD,120000.0,US,100,United States,Large,Data Scientist,Amerika
+509,2022,Mid-Level,FullTime,Applied Data Scientist,USD,157000.0,US,100,United States,Large,Data Scientist,Amerika
+510,2022,Entry-Level,FullTime,Computer Vision Software Engineer,USD,150000.0,AU,100,Australia,Small,Data Engineer,Asia
+511,2022,Mid-Level,FullTime,Business Data Analyst,CAD,70912.0,CA,50,Canada,Large,Data Analyst,Amerika
+512,2022,Entry-Level,FullTime,Data Engineer,USD,65000.0,US,100,United States,Small,Data Engineer,Amerika
+513,2022,Senior-Level,FullTime,Machine Learning Engineer,EUR,71444.0,IE,100,Ireland,Small,Data Engineer,Eropa
+514,2022,Entry-Level,FullTime,Data Analytics Engineer,USD,20000.0,PK,0,Pakistan,Medium,Data Analyst,Asia
+515,2022,Mid-Level,FullTime,Data Scientist,USD,48000.0,RU,100,United States,Small,Data Scientist,Amerika
+516,2022,Senior-Level,FullTime,Data Science Manager,USD,152500.0,US,100,United States,Medium,Data Scientist,Amerika
+517,2022,Mid-Level,FullTime,Data Engineer,EUR,68147.0,FR,100,France,Medium,Data Engineer,Eropa
+518,2022,Mid-Level,FullTime,Data Scientist,CHF,122346.0,CH,0,Switzerland,Large,Data Scientist,Eropa
+519,2022,Senior-Level,FullTime,Applied Data Scientist,USD,380000.0,US,100,United States,Large,Data Scientist,Amerika
+520,2022,Mid-Level,FullTime,Data Scientist,CAD,69336.0,CA,100,Canada,Medium,Data Scientist,Amerika
+521,2022,Entry-Level,FullTime,Computer Vision Engineer,USD,10000.0,PT,100,Luxembourg,Medium,Data Engineer,Eropa
+522,2022,Mid-Level,FullTime,Data Analyst,USD,20000.0,GR,100,Greece,Small,Data Analyst,Eropa
+523,2022,Senior-Level,FullTime,Data Analytics Lead,USD,405000.0,US,100,United States,Large,Data Analyst,Amerika
+524,2022,Mid-Level,FullTime,Data Scientist,USD,135000.0,US,100,United States,Large,Data Scientist,Amerika
+525,2022,Senior-Level,FullTime,Applied Data Scientist,USD,177000.0,US,100,United States,Large,Data Scientist,Amerika
+526,2022,Mid-Level,FullTime,Data Scientist,USD,78000.0,US,100,United States,Medium,Data Scientist,Amerika
+527,2022,Senior-Level,FullTime,Data Analyst,USD,135000.0,US,100,United States,Medium,Data Analyst,Amerika
+528,2022,Senior-Level,FullTime,Data Analyst,USD,100000.0,US,100,United States,Medium,Data Analyst,Amerika
+529,2022,Senior-Level,FullTime,Data Analyst,USD,90320.0,US,100,United States,Medium,Data Analyst,Amerika
+530,2022,Mid-Level,FullTime,Data Analyst,USD,85000.0,CA,0,Canada,Medium,Data Analyst,Amerika
+531,2022,Mid-Level,FullTime,Data Analyst,USD,75000.0,CA,0,Canada,Medium,Data Analyst,Amerika
+532,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,214000.0,US,100,United States,Medium,Data Engineer,Amerika
+533,2022,Senior-Level,FullTime,Machine Learning Engineer,USD,192600.0,US,100,United States,Medium,Data Engineer,Amerika
+534,2022,Senior-Level,FullTime,Data Architect,USD,266400.0,US,100,United States,Medium,Data Engineer,Amerika
+535,2022,Senior-Level,FullTime,Data Architect,USD,213120.0,US,100,United States,Medium,Data Engineer,Amerika
+536,2022,Senior-Level,FullTime,Data Analyst,USD,112900.0,US,100,United States,Medium,Data Analyst,Amerika
+537,2022,Senior-Level,FullTime,Data Engineer,USD,155000.0,US,100,United States,Medium,Data Engineer,Amerika
+538,2022,Mid-Level,FullTime,Data Scientist,USD,141300.0,US,0,United States,Medium,Data Scientist,Amerika
+539,2022,Mid-Level,FullTime,Data Scientist,USD,102100.0,US,0,United States,Medium,Data Scientist,Amerika
+540,2022,Senior-Level,FullTime,Data Analyst,USD,115934.0,US,100,United States,Medium,Data Analyst,Amerika
+541,2022,Senior-Level,FullTime,Data Analyst,USD,81666.0,US,100,United States,Medium,Data Analyst,Amerika
+542,2022,Mid-Level,FullTime,Data Engineer,USD,206699.0,US,0,United States,Medium,Data Engineer,Amerika
+543,2022,Mid-Level,FullTime,Data Engineer,USD,99100.0,US,0,United States,Medium,Data Engineer,Amerika
+544,2022,Senior-Level,FullTime,Data Engineer,USD,130000.0,US,100,United States,Medium,Data Engineer,Amerika
+545,2022,Senior-Level,FullTime,Data Engineer,USD,115000.0,US,100,United States,Medium,Data Engineer,Amerika
+546,2022,Senior-Level,FullTime,Data Engineer,USD,110500.0,US,100,United States,Medium,Data Engineer,Amerika
+547,2022,Senior-Level,FullTime,Data Engineer,USD,130000.0,US,100,United States,Medium,Data Engineer,Amerika
+548,2022,Senior-Level,FullTime,Data Analyst,USD,99050.0,US,100,United States,Medium,Data Analyst,Amerika
+549,2022,Senior-Level,FullTime,Data Engineer,USD,160000.0,US,100,United States,Medium,Data Engineer,Amerika
+550,2022,Senior-Level,FullTime,Data Scientist,USD,205300.0,US,0,United States,Large,Data Scientist,Amerika
+551,2022,Senior-Level,FullTime,Data Scientist,USD,140400.0,US,0,United States,Large,Data Scientist,Amerika
+552,2022,Senior-Level,FullTime,Data Scientist,USD,176000.0,US,100,United States,Medium,Data Scientist,Amerika
+553,2022,Senior-Level,FullTime,Data Scientist,USD,144000.0,US,100,United States,Medium,Data Scientist,Amerika
+554,2022,Senior-Level,FullTime,Data Engineer,USD,200100.0,US,100,United States,Medium,Data Engineer,Amerika
+555,2022,Senior-Level,FullTime,Data Engineer,USD,160000.0,US,100,United States,Medium,Data Engineer,Amerika
+556,2022,Senior-Level,FullTime,Data Engineer,USD,145000.0,US,100,United States,Medium,Data Engineer,Amerika
+557,2022,Senior-Level,FullTime,Data Engineer,USD,70500.0,US,0,United States,Medium,Data Engineer,Amerika
+558,2022,Senior-Level,FullTime,Data Scientist,USD,205300.0,US,0,United States,Medium,Data Scientist,Amerika
+559,2022,Senior-Level,FullTime,Data Scientist,USD,140400.0,US,0,United States,Medium,Data Scientist,Amerika
+560,2022,Senior-Level,FullTime,Analytics Engineer,USD,205300.0,US,0,United States,Medium,Data Analyst,Amerika
+561,2022,Senior-Level,FullTime,Analytics Engineer,USD,184700.0,US,0,United States,Medium,Data Analyst,Amerika
+562,2022,Senior-Level,FullTime,Data Engineer,USD,175100.0,US,100,United States,Medium,Data Engineer,Amerika
+563,2022,Senior-Level,FullTime,Data Engineer,USD,140250.0,US,100,United States,Medium,Data Engineer,Amerika
+564,2022,Senior-Level,FullTime,Data Analyst,USD,116150.0,US,100,United States,Medium,Data Analyst,Amerika
+565,2022,Senior-Level,FullTime,Data Engineer,USD,54000.0,US,0,United States,Medium,Data Engineer,Amerika
+566,2022,Senior-Level,FullTime,Data Analyst,USD,170000.0,US,100,United States,Medium,Data Analyst,Amerika
+567,2022,Mid-Level,FullTime,Data Analyst,GBP,65438.0,GB,0,United Kingdom,Medium,Data Analyst,Eropa
+568,2022,Senior-Level,FullTime,Data Analyst,USD,80000.0,US,100,United States,Medium,Data Analyst,Amerika
+569,2022,Senior-Level,FullTime,Data Scientist,USD,140000.0,US,100,United States,Medium,Data Scientist,Amerika
+570,2022,Senior-Level,FullTime,Data Scientist,USD,210000.0,US,100,United States,Medium,Data Scientist,Amerika
+571,2022,Senior-Level,FullTime,Data Scientist,USD,140000.0,US,100,United States,Medium,Data Scientist,Amerika
+572,2022,Senior-Level,FullTime,Data Analyst,USD,100000.0,US,100,United States,Medium,Data Analyst,Amerika
+573,2022,Senior-Level,FullTime,Data Analyst,USD,69000.0,US,100,United States,Medium,Data Analyst,Amerika
+574,2022,Senior-Level,FullTime,Data Scientist,USD,210000.0,US,100,United States,Medium,Data Scientist,Amerika
+575,2022,Senior-Level,FullTime,Data Scientist,USD,140000.0,US,100,United States,Medium,Data Scientist,Amerika
+576,2022,Senior-Level,FullTime,Data Scientist,USD,210000.0,US,100,United States,Medium,Data Scientist,Amerika
+577,2022,Senior-Level,FullTime,Data Analyst,USD,150075.0,US,100,United States,Medium,Data Analyst,Amerika
+578,2022,Senior-Level,FullTime,Data Engineer,USD,100000.0,US,100,United States,Medium,Data Engineer,Amerika
+579,2022,Senior-Level,FullTime,Data Engineer,USD,25000.0,US,100,United States,Medium,Data Engineer,Amerika
+580,2022,Senior-Level,FullTime,Data Analyst,USD,126500.0,US,100,United States,Medium,Data Analyst,Amerika
+581,2022,Senior-Level,FullTime,Data Analyst,USD,106260.0,US,100,United States,Medium,Data Analyst,Amerika
+582,2022,Senior-Level,FullTime,Data Engineer,USD,220110.0,US,100,United States,Medium,Data Engineer,Amerika
+583,2022,Senior-Level,FullTime,Data Engineer,USD,160080.0,US,100,United States,Medium,Data Engineer,Amerika
+584,2022,Senior-Level,FullTime,Data Analyst,USD,105000.0,US,100,United States,Medium,Data Analyst,Amerika
+585,2022,Senior-Level,FullTime,Data Analyst,USD,110925.0,US,100,United States,Medium,Data Analyst,Amerika
+586,2022,Mid-Level,FullTime,Data Analyst,GBP,45807.0,GB,0,United Kingdom,Medium,Data Analyst,Eropa
+587,2022,Senior-Level,FullTime,Data Scientist,USD,140000.0,US,100,United States,Medium,Data Scientist,Amerika
+588,2022,Senior-Level,FullTime,Data Analyst,USD,99000.0,US,0,United States,Medium,Data Analyst,Amerika
+589,2022,Senior-Level,FullTime,Data Analyst,USD,60000.0,US,100,United States,Medium,Data Analyst,Amerika
+590,2022,Senior-Level,FullTime,Data Architect,USD,192564.0,US,100,United States,Medium,Data Engineer,Amerika
+591,2022,Senior-Level,FullTime,Data Architect,USD,144854.0,US,100,United States,Medium,Data Engineer,Amerika
+592,2022,Senior-Level,FullTime,Data Scientist,USD,230000.0,US,100,United States,Medium,Data Scientist,Amerika
+593,2022,Senior-Level,FullTime,Data Scientist,USD,150000.0,US,100,United States,Medium,Data Scientist,Amerika
+594,2022,Senior-Level,FullTime,Data Analytics Manager,USD,150260.0,US,100,United States,Medium,Data Analyst,Amerika
+595,2022,Senior-Level,FullTime,Data Analytics Manager,USD,109280.0,US,100,United States,Medium,Data Analyst,Amerika
+596,2022,Senior-Level,FullTime,Data Scientist,USD,210000.0,US,100,United States,Medium,Data Scientist,Amerika
+597,2022,Senior-Level,FullTime,Data Analyst,USD,170000.0,US,100,United States,Medium,Data Analyst,Amerika
+598,2022,Mid-Level,FullTime,Data Scientist,USD,160000.0,US,100,United States,Medium,Data Scientist,Amerika
+599,2022,Mid-Level,FullTime,Data Scientist,USD,130000.0,US,100,United States,Medium,Data Scientist,Amerika
+600,2022,Entry-Level,FullTime,Data Analyst,USD,67000.0,CA,0,Canada,Medium,Data Analyst,Amerika
+601,2022,Entry-Level,FullTime,Data Analyst,USD,52000.0,CA,0,Canada,Medium,Data Analyst,Amerika
+602,2022,Senior-Level,FullTime,Data Engineer,USD,154000.0,US,100,United States,Medium,Data Engineer,Amerika
+603,2022,Senior-Level,FullTime,Data Engineer,USD,126000.0,US,100,United States,Medium,Data Engineer,Amerika
+604,2022,Senior-Level,FullTime,Data Analyst,USD,129000.0,US,0,United States,Medium,Data Analyst,Amerika
+605,2022,Senior-Level,FullTime,Data Analyst,USD,150000.0,US,100,United States,Medium,Data Analyst,Amerika
+606,2022,Mid-Level,FullTime,AI Scientist,USD,200000.0,IN,100,United States,Large,Data Scientist,Amerika
